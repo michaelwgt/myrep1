@@ -15,6 +15,7 @@ size_t my_strlen(char *s)
 int main(void)
 {
    int i;
+   #for new test branch 2
    char *s[] = 
    {
       "Git tutorials",
