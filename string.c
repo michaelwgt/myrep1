@@ -8,7 +8,7 @@ size_t my_strlen(char *s)
 
    while (*p)
       ++p;
-
+	#for new test branch
    return (p - s);
 }
 
