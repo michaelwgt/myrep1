@@ -38,5 +38,6 @@ printf("string lenght2 of %s = %lu\n", s[i], my_strlen(s[i]));
       
    printf("string lenght of %s = %lu\n", s[i], my_strlen(s[i]));
 #to push to master from test_branch
+#new change for master
    return 0;
 }
