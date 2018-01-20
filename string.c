@@ -2,6 +2,7 @@
 
 size_t my_strlen(char *s)
 {
+   #todo 2
    char *p = s;
 
    while (*p)
